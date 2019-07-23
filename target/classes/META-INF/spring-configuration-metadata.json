@@ -1,0 +1,16 @@
+{
+  "hints": [],
+  "groups": [],
+  "properties": [
+    {
+      "name": "_JAVA_OPTIONS",
+      "description": "A description for '_JAVA_OPTIONS'",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "firstpage.display-owners-with-first",
+      "description": "A description for 'firstpage.display-owners-with-first'",
+      "type": "java.lang.String"
+    }
+  ]
+}

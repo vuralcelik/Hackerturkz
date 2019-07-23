@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "firstpage.display-owners-with-first",
+    "type": "java.lang.String",
+    "description": "A description for 'firstpage.display-owners-with-first'"
+  },
+  {
+    "name": "_JAVA_OPTIONS",
+    "type": "java.lang.String",
+    "description": "A description for '_JAVA_OPTIONS'"
+  },
+  {
+    "name": "_JAVA_OPTIONS",
+    "type": "java.lang.String",
+    "description": "A description for '_JAVA_OPTIONS'"
+  }
+]}
